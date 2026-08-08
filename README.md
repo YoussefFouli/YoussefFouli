@@ -38,13 +38,91 @@
 
 #### 🛠️ Top Technical Skills
 
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br />
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,java,python,opencv,pytorch,tensorflow,js,ts,react,nodejs,express&perline=13" alt="Skills row 1" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,docker,azure,aws,mysql,git,github,gitlab,linux,vscode,figma&perline=13" alt="Skills row 2" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=gradle,materialui,firebase,postman,spring,fastapi,postgresql,mongodb,githubactions,graphql,nestjs,dart,redux&perline=13" alt="Skills row 3" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,dart,mysql,html,css&perline=8" alt="Languages" />
 </div>
+</details>
+
+<details open>
+<summary><b>🎨 Front-End</b></summary>
+<br />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,redux&perline=8" alt="Front-End" />
+</div>
+</details>
+
+<details open>
+<summary><b>⚙️ Back-End & Databases</b></summary>
+<br />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,cpp,mysql,postgresql,mongodb,graphql&perline=9" alt="Back-End" />
+</div>
+</details>
+
+<details open>
+<summary><b>📱 Mobile Development</b></summary>
+<br />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase&perline=5" alt="Mobile" />
+</div>
+</details>
+
+<details open>
+<summary><b>🎨 UI/UX & Design Tools</b></summary>
+<br />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=3" alt="Design Tools" />
+</div>
+</details>
+
+<details open>
+<summary><b>🧰 Dev Tools & Workflow</b></summary>
+<br />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,visualstudio,docker,githubactions,linux&perline=9" alt="Dev Tools" />
+</div>
+</details>
+
+<details>
+<summary><b>🚀 Also experienced with</b></summary>
+<br />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,opencv,pytorch,tensorflow,azure,aws,spring,fastapi,nestjs,gitlab,gradle,materialui&perline=13" alt="Additional skills" />
+</div>
+</details>
+
+---
+
+#### 🧠 Core Competencies
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+**🏗️ Engineering**
+
+`OOP` `SOLID Principles` `Design Patterns` `Clean Code` `Data Structures & Algorithms` `RESTful API Dev` `DB Design & Normalization` `Dependency Injection` `JWT Auth` `Software Testing`
+
+</td>
+<td valign="top" width="33%">
+
+**🎨 Design**
+
+`Wireframing` `Prototyping` `Design Systems` `User Flows` `Responsive Design` `Design Handoff` `UI Design` `UX Design` `Information Architecture`
+
+</td>
+<td valign="top" width="33%">
+
+**🤝 Human Skills**
+
+`Team Collaboration` `Communication` `Problem Solving` `Attention to Detail` `Client Analysis` `Adaptability` `Critical Thinking` `Time Management` `Continuous Learning`
+
+</td>
+</tr>
+</table>
 
 ---
 
