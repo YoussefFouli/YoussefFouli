@@ -87,7 +87,6 @@
 
 #### 🎮 Arcade Animations
 
-<p align="center"><b>👻 Pac-Man</b></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/pacman-contribution-graph-dark.svg">
