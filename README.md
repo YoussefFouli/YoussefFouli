@@ -111,20 +111,19 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=YoussefFouli&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=YoussefFouli&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefFouli&show_icons=true&theme=highcontrast&hide_border=true" height="165" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefFouli&layout=compact&langs_count=8&theme=highcontrast&hide_border=true" height="165" alt="Top Languages" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=YoussefFouli&theme=highcontrast&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YoussefFouli&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YoussefFouli&layout=compact&langs_count=8&theme=dark&hide_border=true" height="165" alt="Top Languages" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=YoussefFouli&theme=dark&hide_border=true" height="165" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<!-- Snake needs a GitHub Action in this repo — hidden until configured -->
+<!-- See: https://github.com/Platane/snk -->
