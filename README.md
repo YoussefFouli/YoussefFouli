@@ -14,7 +14,7 @@
 
 ---
 
-#### 📤 Connect
+<h4 align="center">📤 Connect</h4>
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1E-fdqcyTJ0KYiEKrCYSocJJGbUx0Ja-q/view?usp=drive_link" target="_blank">
@@ -36,10 +36,10 @@
 
 ---
 
-#### 🛠️ Top Technical Skills
+<h4 align="center">🛠️ Top Technical Skills</h4>
 
 <details open>
-<summary><b>💻 Languages</b></summary>
+<summary align="center"><b>💻 Languages</b></summary>
 <br />
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,dart,mysql,html,css&perline=8" alt="Languages" />
@@ -47,7 +47,7 @@
 </details>
 
 <details open>
-<summary><b>🎨 Front-End</b></summary>
+<summary align="center"><b>🎨 Front-End</b></summary>
 <br />
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,redux&perline=8" alt="Front-End" />
@@ -55,7 +55,7 @@
 </details>
 
 <details open>
-<summary><b>⚙️ Back-End & Databases</b></summary>
+<summary align="center"><b>⚙️ Back-End & Databases</b></summary>
 <br />
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,cpp,mysql,postgresql,mongodb,graphql&perline=9" alt="Back-End" />
@@ -63,7 +63,7 @@
 </details>
 
 <details open>
-<summary><b>📱 Mobile Development</b></summary>
+<summary align="center"><b>📱 Mobile Development</b></summary>
 <br />
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase&perline=5" alt="Mobile" />
@@ -71,7 +71,7 @@
 </details>
 
 <details open>
-<summary><b>🎨 UI/UX & Design Tools</b></summary>
+<summary align="center"><b>🎨 UI/UX & Design Tools</b></summary>
 <br />
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=3" alt="Design Tools" />
@@ -79,7 +79,7 @@
 </details>
 
 <details open>
-<summary><b>🧰 Dev Tools & Workflow</b></summary>
+<summary align="center"><b>🧰 Dev Tools & Workflow</b></summary>
 <br />
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,visualstudio,docker,githubactions,linux&perline=9" alt="Dev Tools" />
@@ -87,7 +87,7 @@
 </details>
 
 <details>
-<summary><b>🚀 Also experienced with</b></summary>
+<summary align="center"><b>🚀 Also experienced with</b></summary>
 <br />
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,opencv,pytorch,tensorflow,azure,aws,spring,fastapi,nestjs,gitlab,gradle,materialui&perline=13" alt="Additional skills" />
@@ -96,25 +96,25 @@
 
 ---
 
-#### 🧠 Core Competencies
+<h4 align="center">🧠 Core Competencies</h4>
 
 <table align="center">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="center">
 
 **🏗️ Engineering**
 
 `OOP` `SOLID Principles` `Design Patterns` `Clean Code` `Data Structures & Algorithms` `RESTful API Dev` `DB Design & Normalization` `Dependency Injection` `JWT Auth` `Software Testing`
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="center">
 
 **🎨 Design**
 
 `Wireframing` `Prototyping` `Design Systems` `User Flows` `Responsive Design` `Design Handoff` `UI Design` `UX Design` `Information Architecture`
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="center">
 
 **🤝 Human Skills**
 
@@ -126,7 +126,7 @@
 
 ---
 
-#### 🏆 GitHub Stats
+<h4 align="center">🏆 GitHub Stats</h4>
 
 <div align="center">
 
@@ -144,7 +144,7 @@
 
 ---
 
-#### 📈 Activity Graph
+<h4 align="center">📈 Activity Graph</h4>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefFouli&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
@@ -152,7 +152,7 @@
 
 ---
 
-#### 🎮 Arcade Animations
+<h4 align="center">🎮 Arcade Animations</h4>
 
 <p align="center">
   <picture>
