@@ -96,37 +96,9 @@
   </picture>
 </p>
 
-<p align="center"><b>🧱 Breakout</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/breakout-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/breakout-contribution-graph.svg">
-    <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/breakout-contribution-graph.svg">
-  </picture>
-</p>
 
-<p align="center"><b>🚀 Galaga</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/galaga-contribution-graph.svg">
-    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/galaga-contribution-graph.svg">
-  </picture>
-</p>
 
-<p align="center"><b>🐍 Snake (GIF)</b></p>
-<p align="center">
-  <img alt="snake gif" src="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/github-contribution-grid-snake.gif" />
-</p>
 
-<p align="center"><b>🐍 Snake (SVG)</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63&height=80&section=footer&text=Thanks%20For%20Visiting!&fontSize=28&fontColor=00ffff&animation=fadeIn" alt="Footer animation" />
