@@ -50,11 +50,11 @@
 #### 🛠️ Top Technical Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,flutter,java,python,opencv,pytorch,tensorflow,js,ts,react,nodejs,express&perline=13" alt="Skills row 1" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,java,python,opencv,pytorch,tensorflow,js,ts,react,nodejs,express&perline=13" alt="Skills row 1" />
   <br />
   <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,docker,azure,aws,mysql,git,github,gitlab,linux,vscode,figma&perline=13" alt="Skills row 2" />
   <br />
-  <img src="https://skillicons.dev/icons?i=gradle,compose,firebase,postman,spring,fastapi,postgresql,mongodb,githubactions,hilt,retrofit,dart,redux&perline=13" alt="Skills row 3" />
+  <img src="https://skillicons.dev/icons?i=gradle,materialui,firebase,postman,spring,fastapi,postgresql,mongodb,githubactions,graphql,nestjs,dart,redux&perline=13" alt="Skills row 3" />
 </div>
 
 ---
@@ -93,38 +93,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
-<p align="center"><b>🧱 Breakout</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/breakout-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/breakout-contribution-graph.svg">
-    <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/breakout-contribution-graph.svg">
-  </picture>
-</p>
-
-<p align="center"><b>👾 Galaga</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/galaga-contribution-graph.svg">
-    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/galaga-contribution-graph.svg">
-  </picture>
-</p>
-
-<p align="center"><b>🐍 Snake (GIF)</b></p>
-<p align="center">
-  <img alt="snake gif" src="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/github-contribution-grid-snake.gif" />
-</p>
-
-<p align="center"><b>🐍 Snake (SVG)</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
