@@ -50,9 +50,11 @@
 #### 🛠️ Top Technical Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,java,python,opencv,pytorch,tensorflow,js,ts,react,nodejs,express&perline=7" alt="Skills row 1" />
+  <img src="https://skillicons.dev/icons?i=kotlin,android,flutter,java,python,opencv,pytorch,tensorflow,js,ts,react,nodejs,express&perline=13" alt="Skills row 1" />
   <br />
-  <img src="https://skillicons.dev/icons?i=express,cs,cpp,dotnet,docker,azure,aws,mysql,git,github,gitlab,linux,vscode,figma&perline=7" alt="Skills row 2" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,docker,azure,aws,mysql,git,github,gitlab,linux,vscode,figma&perline=13" alt="Skills row 2" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=gradle,compose,firebase,postman,spring,fastapi,postgresql,mongodb,githubactions,hilt,retrofit,dart,redux&perline=13" alt="Skills row 3" />
 </div>
 
 ---
