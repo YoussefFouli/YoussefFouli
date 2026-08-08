@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Android+Developer;Kotlin+%7C+Python+%7C+OpenCV;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Android+Developer;Kotlin+%7C+Python+%7C+OpenCV;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+mobile+%26+CV+experiences;Open+to+collaboration+%26+learning&font=Fira+Code&center=true&color=30F050&pause=2000" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+mobile+%26+CV+experiences;Open+to+collaboration+%26+learning&font=Fira+Code&center=true&color=30F050&pause=2000" alt="Subtitle" />
 </p>
 
 <p align="center">
@@ -54,7 +54,9 @@
 #### 🛠️ Top Technical Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,flutter,java,python,opencv,pytorch,tensorflow,js,ts,react,nodejs,express,cs,cpp,dotnet,docker,azure,aws,mysql,git,github,gitlab,linux,vscode,figma&perline=13" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,java,python,opencv,pytorch,tensorflow,js,ts,react,nodejs,express&perline=7" alt="Skills row 1" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=express,cs,cpp,dotnet,docker,azure,aws,mysql,git,github,gitlab,linux,vscode,figma&perline=7" alt="Skills row 2" />
 </div>
 
 ---
@@ -93,6 +95,38 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+<p align="center"><b>🧱 Breakout</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/breakout-contribution-graph.svg">
+    <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/breakout-contribution-graph.svg">
+  </picture>
+</p>
+
+<p align="center"><b>👾 Galaga</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/galaga-contribution-graph.svg">
+  </picture>
+</p>
+
+<p align="center"><b>🐍 Snake (GIF)</b></p>
+<p align="center">
+  <img alt="snake gif" src="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/github-contribution-grid-snake.gif" />
+</p>
+
+<p align="center"><b>🐍 Snake (SVG)</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
