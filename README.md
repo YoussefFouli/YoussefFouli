@@ -125,5 +125,10 @@
 
 ---
 
-<!-- Snake needs a GitHub Action in this repo — hidden until configured -->
-<!-- See: https://github.com/Platane/snk -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YoussefFouli/YoussefFouli/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
