@@ -12,36 +12,25 @@
   <img src="https://komarev.com/ghpvc/?username=YoussefFouli&style=flat&color=3010A0" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1E-fdqcyTJ0KYiEKrCYSocJJGbUx0Ja-q/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/My%20CV-004520?style=flat-square&logo=googledrive&logoColor=white" alt="My CV" />
-  </a>
-  &nbsp;
-  <a href="https://yousseffouli.github.io/YM_Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" alt="My Portfolio" />
-  </a>
-  &nbsp;
-  <a href="mailto:Youssef.Fouli@evapharma.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 ---
 
 #### 📤 Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/youssef-mohammed113/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  <a href="https://drive.google.com/file/d/1E-fdqcyTJ0KYiEKrCYSocJJGbUx0Ja-q/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=My%20CV&logo=googledrive&label=&color=004520&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="My CV" />
+  </a>
+  <a href="https://yousseffouli.github.io/YM_Portfolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=linkfire&label=&color=00307A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
   </a>
   <a href="mailto:Youssef.Fouli@evapharma.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
   </a>
+  <a href="https://www.linkedin.com/in/youssef-mohammed113/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/YoussefFouli" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub" />
-  </a>
-  <a href="https://yousseffouli.github.io/YM_Portfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=linkfire&label=&color=00307A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
   </a>
 </div>
 
